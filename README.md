@@ -13,10 +13,10 @@
 ### Analysis of Outcomes Based on Launch Date & Challenges
 
 * In order to analyze the outcomes based on launch date, I created a pivot table in a new sheet, added Parent Category and Years as filters and displayed the Axis categories as months instead of Quarters. I selected theater only as parent category and put the outcomes in descending order, so that the successful campaigns are visible first. 
-[Kickstarter_Challenge](/Users/irinapreotescu/Desktop/Analysis Projects/Crowdfunding Analysis/Kickstarter_Challenge.xlsx)
+[Kickstarter_Challenge.xlsx](/Users/irinapreotescu/Desktop/Analysis Projects/Crowdfunding Analysis/Kickstarter_Challenge.xlsx)
 
 The line chart can be seen here:
-![Theater_Outcomes_vs_Launch](/Users/irinapreotescu/Desktop/Analysis Projects/Crowdfunding Analysis/resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](/Users/irinapreotescu/Desktop/Analysis Projects/Crowdfunding Analysis/resources/Theater_Outcomes_vs_Launch.png)
 
 * A challenge I encountered was remembering how to display the months of the year. I overcame that by researching how to group the data in pivot tables.
 
@@ -24,7 +24,7 @@ The line chart can be seen here:
 
 * In order to analyze the outcomes based on the campaign goals, I created the range categories, then used the COUNTIFS function to count all the successful, failed, and canceled campaigns for theater plays, respectively. I used the SUM function to caculcate the total number of successful, failed, and canceled campaigns, and the ROUND function to calculate the percentage of successful, failed, and cancelled projects. I used the line chart to illustrate this analysis, which can be seen below.
 
-![Outcomes_vs_Goals](/Users/irinapreotescu/Desktop/Analysis Projects/Crowdfunding Analysis/resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](/Users/irinapreotescu/Desktop/Analysis Projects/Crowdfunding Analysis/resources/Outcomes_vs_Goals.png)
 
 * One challenge I encountered was formatting the chart to include exactly what the assignment required. I overcame this by going back to the class material and selecting the correct range for the chart. I was not able to add the percentage symbol for the y-axis values. 
 
